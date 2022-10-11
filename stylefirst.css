@@ -1,0 +1,16 @@
+h1{
+    color : lightgreen;
+    font-size : 27px;
+}
+.big{
+    font-size: 55px;
+}
+.ucase{
+    text-transform: uppercase;
+}
+.big.ucase{
+    color : brown;
+}
+h1 span{
+    color : green;
+}
